@@ -5,7 +5,7 @@ on:
     branches:
         - __mirror
   schedule:
-    - cron: '3 * * * *'
+    - cron: '*/3 * * * *'
   workflow_dispatch:
 
 jobs:
