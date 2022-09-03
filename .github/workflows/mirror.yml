@@ -3,6 +3,11 @@ name: 'mirror'
 on:
   schedule:
     - cron: '*/3 * * * *'
+  push:
+    branches:
+      - __mirror
+  workflow_dispatch:
+
 jobs:
   mirror:
     runs-on: ubuntu-latest
