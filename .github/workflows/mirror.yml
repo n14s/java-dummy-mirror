@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: mirror
         id: mirror
-        uses: n14s/github-mirror-action@v1
+        uses: n14s/github-mirror-action@v1.1
         with:
           origin: "https://${{secrets.GITHUB_TOKEN}}@github.com/n14s/blink-break.git"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
