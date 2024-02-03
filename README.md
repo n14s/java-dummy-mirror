@@ -15,9 +15,17 @@ It states, that every 20 minutes one should focus something, that it (at least) 
 
 While not hard or time-consuming to implement in one's daily life and while working well with likes of the [pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique), it can be merely forgotten until the physical consequences are encountered.
 
+# Some other header
+
+This is great
+This is very great
+This must be the greatest
+Not bad
+
 # Goal
 
-Get reminded in regular time-intervals to rest your eyes, for example every 20 seconds according to the 20-20-20 rule. \
+The goal is to make a PR with a subtle change
+Nothing to see here
 
 # Usage
 
